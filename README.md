@@ -1,5 +1,4 @@
-# Tic-Tac-Toe - A Two-Player Tic-Tac-Toe Game
-
+# Tic-Tac-Toe 
 This repository contains a simple implementation of the classic two-player Tic-Tac-Toe game written in Python. The game is played on a 3x3 grid where two players take turns marking a space with "X" or "O".
 
 ## Game Rules
