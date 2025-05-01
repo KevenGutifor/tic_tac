@@ -2,10 +2,9 @@
 # A two-player game where players take turns marking a 3x3 grid
 
 import pandas
-import os
 
 # Initialize the game board
-board = [" " for _ in range(9)]
+board = [" " for _ in range(10)]
 
 # Function to print the current state of the board
 def print_board():
