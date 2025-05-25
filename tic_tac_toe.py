@@ -1,11 +1,11 @@
 # A two-player game where players take turns marking a 3x3 grid
 
 import pandas
-IMPORT OPERATOR
 import os
 
 # Initialize the game board
 board = [" " for _ in range(10)]
+desk = []
 
 # Function to print the current state of the board
 def print_board():
