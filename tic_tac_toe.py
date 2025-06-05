@@ -1,6 +1,6 @@
 # A two-player game where players take turns marking a 3x3 grid
 
-import pandas
+import pandas as pd
 import os
 
 # Initialize the game board
